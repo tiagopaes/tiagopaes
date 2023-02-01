@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Tiago Paes</h1>
-<h3 align="center">A passionate web developer from Brasil</h3>
+<h3 align="center">A web developer from Brasil</h3>
 
+<!--
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiagopaes" alt="tiagopaes" /> </p>
 
 
@@ -30,3 +31,4 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/tiagopaes_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tiagopaes_" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/tiago-paes-a5119ba0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tiago-paes-a5119ba0" height="20" width="20" /></a>
 </p>
+-->
