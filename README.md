@@ -1,34 +1,30 @@
-<!--
-### Hi there 👋
+# Hi, I'm Tiago Paes
 
+Full-stack Developer from Brazil 🇧🇷 with over 8 years of experience building SaaS products, APIs, and automation tools, specializing in PHP (Laravel).
 
-**tiagopaes/tiagopaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I create smart tools powered by AI (OpenAI, Pinecone, etc.)
+- I build WhatsApp integrations for messaging automations
+- I specialize in building modern web applications using Laravel and its ecosystem
+- I also share dev content on YouTube (in PT-BR)
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **PHP (Laravel)** – Expert in building scalable web applications and APIs using Laravel's ecosystem.
+- **JavaScript** – Proficient in frontend and backend JavaScript development.
+- **AI** – Experience integrating AI services like OpenAI and Anthropic to enhance application functionality.
+- **Automation** – Expertise in creating automation tools using n8n and other frameworks.
 
-<h1 align="center">Hi 👋, I'm Tiago Paes</h1>
-<h3 align="center">A web developer from Brasil</h3>
+<!-- ## Highlight Projects
 
-<!--
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tiagopaes" alt="tiagopaes" /> </p>
+- **WhizzyChat** – WhatsApp integration for digital product platforms like Kiwify, Hotmart, and Shopify, automating communication and increasing sales engagement.
+- **BotReminder** – Automated WhatsApp reminders for meetings booked via Cal.com, Calendly, etc., reducing no-shows and improving meeting attendance.
+- **AI Chatbot for teams** – Laravel app that lets users chat with their own documents and knowledge base using OpenAI, enhancing internal knowledge sharing and productivity. -->
 
+## 📬 Let's connect!
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tiagopaes&show_icons=true" alt="tiagopaes" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagopaes" alt="tiagopaes" /> </p>
+Feel free to reach out via the links below or drop me an email.
 
-<p align="center">
-<a href="https://codepen.io/tiagopaes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="tiagopaes" height="20" width="20" /></a>
-<a href="https://twitter.com/tiagopaes_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tiagopaes_" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/tiago-paes-a5119ba0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tiago-paes-a5119ba0" height="20" width="20" /></a>
-</p>
--->
+- Portfolio (PT-BR): [https://tiagopaes.dev](https://tiagopaes.dev)  
+- LinkedIn: [linkedin.com/in/tiagopaees](https://www.linkedin.com/in/tiagopaees)  
+- YouTube: [youtube.com/@tiagopaees](https://www.youtube.com/@tiagopaees)  
+- Email: [me@tiagopaes.dev](mailto:me@tiagopaes.dev)
