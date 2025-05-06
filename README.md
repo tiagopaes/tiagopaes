@@ -1,6 +1,6 @@
 # Hi, I'm Tiago Paes
 
-Full-stack Developer from Brazil 🇧🇷 with over 8 years of experience building SaaS products, APIs, and automation tools, specializing in PHP (Laravel).
+Full-stack Developer with over 8 years of experience building SaaS products, APIs, and automation tools, specializing in PHP (Laravel).
 
 - I create smart tools powered by AI (OpenAI, Pinecone, etc.)
 - I build WhatsApp integrations for messaging automations
