@@ -6,9 +6,7 @@
 
 AtomicLink is a URL shortener designed for performance marketing. It allows you to **inject Meta Pixel or TikTok Pixel events** before redirecting users to the final destination — commonly used to **track clicks on WhatsApp links** from ads.
 
-> [Live app (PT-BR)](https://atomiclink.com.br)  
-> [Watch Demo Video](https://www.youtube.com/watch?v=XXXXXXXXXXX)
-
+> [Live app (PT-BR)](https://atomiclink.com.br)
 ---
 
 ## Overview
