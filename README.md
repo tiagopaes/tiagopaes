@@ -14,13 +14,11 @@ Full-stack Developer with over 8 years of experience building SaaS products, API
 - **AI** – Experience integrating AI services like OpenAI and Anthropic to enhance application functionality.
 - **Automation** – Expertise in creating automation tools using n8n and other frameworks.
 
-<!-- ## Highlight Projects
+## Projects
 
-- **WhizzyChat** – WhatsApp integration for digital product platforms like Kiwify, Hotmart, and Shopify, automating communication and increasing sales engagement.
-- **BotReminder** – Automated WhatsApp reminders for meetings booked via Cal.com, Calendly, etc., reducing no-shows and improving meeting attendance.
-- **AI Chatbot for teams** – Laravel app that lets users chat with their own documents and knowledge base using OpenAI, enhancing internal knowledge sharing and productivity. -->
+- [AtomicLink](projects/atomiclink.md): A URL shortener that supports Meta and TikTok Pixels. Built with Laravel (TALL stack) and used in real-world campaigns.
 
-## 📬 Let's connect!
+## Let's connect!
 
 Feel free to reach out via the links below or drop me an email.
 
