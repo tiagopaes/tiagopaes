@@ -17,6 +17,7 @@ AtomicLink is a URL shortener designed for performance marketing. It allows you 
 - Common use case: **tagging WhatsApp links shared in ads**
 - Track click events and redirection analytics
 - Used by over **1,000 users** since launch
+- Integrated with **Stripe Subscriptions** for monetization
 
 ---
 
