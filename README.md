@@ -1,10 +1,8 @@
 # Hi, I'm Tiago Paes
 
-Full-stack developer with 8+ years of experience building custom SaaS products, APIs, and automation tools powered by AI.
+I’m a software engineer with 9+ years of experience, focused on full-stack web development and practical AI solutions.
 
-- I develop AI-powered applications using LLMs, vector databases, embeddings, and RAG pipelines  
-- I create AI agents and automations that integrate with WhatsApp, CRMs, and SaaS platforms using tools like n8n and custom APIs  
-- I use the Laravel ecosystem (TALL stack, Filament, Inertia) to deliver custom web applications
+I build web applications, APIs, backend systems, and automation tools that help teams work more efficiently.
 
 ## Let's connect!
 
